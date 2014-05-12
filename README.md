@@ -7,4 +7,5 @@ all-purpose central wiki
 /* Michal Cáb, GND, Kryštof Pešek, Jiří Rouš, Georgij Bagdasarov, Martin Blažíček, Petr Zábrodský, Erik Bartoš, Andrej Boleslavský. */
 
 
-
+https://soundcloud.com/algorave-iii/algorve-iii-neone
+https://soundcloud.com/algorave-iii/code-for-lunch
