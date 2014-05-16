@@ -10,3 +10,10 @@ all-purpose central wiki
 https://soundcloud.com/algorave-iii/algorve-iii-neone
 
 https://soundcloud.com/algorave-iii/code-for-lunch
+
+
+
+howto
+=====
+
+<script src="https://gist.github.com/K0F/75f96d968cc5328a6132.js"></script>
