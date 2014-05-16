@@ -14,7 +14,13 @@ https://soundcloud.com/algorave-iii/code-for-lunch
 
 
 howto
-=====
+======
+
+Synchronizace vsech repozitori se serverem (umistenych v jednom folderu),
+skript "sync.sh" umisteny relativne.. 
 
 
-<script src="https://gist.github.com/K0F/75f96d968cc5328a6132.js"></script>
+```
+    #!/bin/sh
+    for i in `ls`; do cd $i; git commit -am "`date` sync" ; git pull ; cd .. ; done
+```
