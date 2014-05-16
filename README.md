@@ -21,6 +21,6 @@ skript "sync.sh" umisteny relativne..
 
 
 ```
-    #!/bin/sh
-    for i in `ls`; do cd $i; git commit -am "`date` sync" ; git pull ; git push ; cd .. ; done
+#!/bin/sh
+for i in `ls -p|grep "/"`; do cd $i; git commit -am "`date` sync" ; git pull ; git push ; cd .. ; done
 ```
