@@ -1,6 +1,5 @@
 wiki
 ====
-all-purpose central wiki
 
 _Kolektiv je otevřené sdružení tvůrců algoritmických vizuálů a elektronických hudebníků respektujících tradici live codingu, umělecké formy využívající živé psaní kódu, vytvářející nástroje pro zvuk a obraz přímo před zraky diváků._
 
