@@ -8,8 +8,8 @@ http://k-o-l-e-k-t-i-v.github.io/
 howto
 ======
 
-Synchronizace vsech repozitori se serverem (umistenych v jednom folderu),
-skript "sync.sh" umisteny relativne.. 
+Synchronizace vsech repozitaru se serverem (umistenych v jednom folderu),
+skript "sync.sh" umisteny relativne. 
 
 
 ```
